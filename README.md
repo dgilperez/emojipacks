@@ -76,6 +76,14 @@ It optionally takes an argument for the directory path that contains your yaml f
 $ ./batchUpload.sh [path_to_yaml_files]
 ```
 
+### Enabled packs
+
+This fork has a `packs-enabled` folder, so we can set the particular packs we want (and add some extras). Use it like this:
+
+```bash
+$ ./batchUpload-enabled.sh packs-enabled <subdomain> <email> <password>
+```
+
 ## Emoji Yaml File
 
 Also note that the yaml file must be indented properly and formatted as such:
