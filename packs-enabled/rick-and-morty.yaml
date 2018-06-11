@@ -1,0 +1,86 @@
+title: rick-and-morty
+emojis:
+  - name: ants-in-my-eyes-johnson
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/ants-in-my-eyes-johnson.png
+  - name: beth-angry
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/beth-angry.png
+  - name: beth-scared
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/beth-scared.png
+  - name: beth-serious
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/beth-serious.png
+  - name: beth-smile
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/beth-smile.png
+  - name: blips-n-chitz
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/blips-n-chitz.png
+  - name: butter-robot
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/butter-robot.png
+  - name: giant-naked-man
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/giant-naked-man.png
+  - name: jerry-eyeroll
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/jerry-eyeroll.png
+  - name: jerry-mad
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/jerry-mad.png
+  - name: jerry-mansplain
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/jerry-mansplain.png
+  - name: jerry-scream
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/jerry-scream.png
+  - name: jerry-skeptic
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/jerry-skeptic.png
+  - name: meeseeks-scream
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/meeseeks-scream.png
+  - name: morty-derp
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-derp.png
+  - name: meeseeks.png
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/meeseeks.png
+  - name: morty-heh
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-heh.png
+  - name: morty-messedup
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-messedup.png
+  - name: morty-sad
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-sad.png
+  - name: morty-scream
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-scream.png
+  - name: morty-smile
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/morty-smile.png
+  - name: mr-poopy-butthole-2
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/mr-poopy-butthole-2.png
+  - name: mr-poopy-butthole
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/mr-poopy-butthole.png
+  - name: pickle-rick
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/pickle-rick.png
+  - name: rick-and-morty-portal
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-and-morty-portal.png
+  - name: rick-drinking
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-drinking.png
+  - name: rick-hey-2
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-hey-2.png
+  - name: rick-hey
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-hey.png
+  - name: rick-uh
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-uh.png
+  - name: rick-whatever
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-whatever.png
+  - name: rick-whoah
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/rick-whoah.png
+  - name: robo-rick
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/robo-rick.png
+  - name: screaming-sun
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/screaming-sun.png
+  - name: show-me-what-you-got
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/show-me-what-you-got.png
+  - name: snuffles.png
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/snuffles.png
+  - name: special-rick.png
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/special-rick.png
+  - name: summer-crying
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/summer-crying.png
+  - name: summer-happy
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/summer-happy.png
+  - name: summer-mad
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/summer-mad.png
+  - name: summer-messedup
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/summer-messedup.png
+  - name: summer-worried
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/summer-worried.png
+  - name: szechuan-dipping-sauce
+    src: https://github.com/dgilperez/emojipacks/raw/master/packs-enabled/rick-and-morty-0bjadx1utwd/szechuan-dipping-sauce.png
