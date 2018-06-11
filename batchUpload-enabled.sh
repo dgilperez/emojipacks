@@ -2,16 +2,15 @@
 
 subdomain=$2
 email=$3
-password=$4
+packspath=$1
 
-if [[ $1 -eq 0 ]] ; then
-  path='./packs'
-else
-  path="$1"
+if [ $# -ne 3 ]; then
+  echo "$0: usage: ./batchUpload-enabled.sh packs-enabled <slack-subdomain> <email>"
+  exit 1
 fi
 
-for f in "$path"/*.yaml
+for f in "$packspath/"*.yaml
 do
   echo $f
-  emojipacks -s $subdomain -e $email -p $password -y $f;
+  emojipacks -s $subdomain -e $email -y $f;
 done
