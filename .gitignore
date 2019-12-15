@@ -34,3 +34,7 @@ batchUpload.sh
 
 # OSX Garbage
 .DS_Store
+
+# Editor files
+.idea
+.vscode
