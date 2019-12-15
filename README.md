@@ -64,6 +64,14 @@ This will allow for easier batch uploading of multiple yaml files
 $ emojipacks -s <subdomain> -e <email> -p <password> -y <yaml_file>
 ```
 
+## Skip Login by Providing API Token
+
+If you don't want to sign in every time, you can pass in a previously generated API token
+
+```bash
+$ emojipacks -t <api_token>
+```
+
 ## Run Batch Upload script
 
 A file named batchUploadExample.sh is provided for your reference. Edit this file change the subdomain, email, and password parameters to your own and save it as batchUpload.sh or something similar.
