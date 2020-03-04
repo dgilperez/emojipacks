@@ -12,5 +12,5 @@ fi
 for f in "$packspath/"*.yaml
 do
   echo $f
-  emojipacks -s $subdomain -e $email -y $f;
+  bin/emojipacks -s $subdomain -e $email -y $f;
 done
